@@ -1,5 +1,5 @@
 // The code listed below contains a bare bone example on how to create a pixel image editor
-// using C# programming language on MS Visual Studio 2022.
+// using C# programming language on Microsoft Visual Studio 2022.
 
 namespace GreekPicturePixelEditor
 {
